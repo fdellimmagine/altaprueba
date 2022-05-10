@@ -1,0 +1,24 @@
+INSTALLING GIT ON A RED HAT BASED DISTRIBUTION
+
+
+yum install git
+
+git --version
+
+man git
+
+dnf install git
+
+
+INSTALLING GIT ON A DEBIAN BASED DISTRIBUTION
+
+apt-get install git
+
+git--version
+
+man git
+
+
+
+
+
